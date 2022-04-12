@@ -108,7 +108,7 @@ Con valores reales.
 <div class="widget">
   <div class="cover"><img src="https://the_url.com/for_the_background.png" /></div>
   <img src="https://the_url.com/for_the_image.png" class="photo" />
-  <h1>Ryan Boylett</h1>
+  <h1></h1>
   <h2>Web Developer</h2>
   <h3>Miami, USA</h3>
   <ul class="position-right">
